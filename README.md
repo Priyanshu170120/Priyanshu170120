@@ -14,9 +14,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi there 👋
+💫 About Me:
 
-# 💫 About Me:
-I am currently pursuing a PG Diploma in Embedded System Design at CDAC Hyderabad. My interests include Embedded C Programming, Microcontroller Programming and Interfacing, Real-time Operating Systems, IoT, and Embedded AI.<br><br>🔭 I’m currently working on<br><br>A project to automatically switch vehicle headlights from high beam to low beam using sensors.<br><br>Building expertise in embedded systems, IoT, and real-time operating systems.<br><br><br>👯 I’m looking to collaborate on<br><br>Projects related to microcontrollers, device drivers, and IoT-based solutions.<br><br>Embedded AI applications and real-time systems.<br><br><br>🤝 I’m looking for help with<br><br>Advanced concepts in Embedded Operating Systems and Device Drivers.<br><br>Strategies for optimizing embedded software.<br><br><br>🌱 I’m currently learning<br><br>Embedded Device Drivers and IoT protocols.<br><br>Advanced concepts in microcontroller interfacing and real-time operating systems.<br><br><br>💬 Ask me about<br><br>Embedded C, microcontroller programming, and IoT.<br><br>How to approach embedded system projects for practical applications.<br><br><br>⚡ Fun factHi there! <br><br>I'm passionate about building intelligent systems that merge hardware and software seamlessly. I aspire to establish my own embedded systems startup in the future!
+I have successfully completed my PG Diploma in Embedded System Design at CDAC Hyderabad. My expertise includes Embedded C Programming, Microcontroller Interfacing, IoT, RTOS, and Embedded AI. I am passionate about designing real-time embedded systems that merge hardware and software for smart automation.
+🔭 Recent Work & Projects:
+
+    🚗 Real-Time Vehicle Detection & Adaptive Headlight System: Developed an ESP32-based smart headlight system that adjusts brightness and beam direction based on real-time sensor data. Integrated ThingSpeak for cloud monitoring and Twilio for emergency alerts.
+    🤖 Embedded IoT Systems: Working on ESP8266 & STM32-based IoT solutions for automation, cloud connectivity, and real-time control.
+    ⚙️ RTOS & Multitasking: Exploring FreeRTOS for task scheduling, inter-task communication, and real-time synchronization in embedded systems.
+
+👯 Looking to Collaborate On:
+
+    Embedded AI applications and real-time industrial automation projects.
+    Microcontroller-based device drivers & firmware development.
+    IoT solutions leveraging ESP32, STM32, and cloud integration.
+
+🌱 Currently Learning:
+
+    Advanced Embedded Linux, Device Drivers, and Real-Time Operating Systems (RTOS).
+    Optimizing firmware performance and low-power embedded design.
+    Secure IoT protocols (MQTT, CoAP, Zigbee) & Cloud Integration.
+
+💬 Ask Me About:
+
+    Embedded C, Microcontroller Programming, IoT, and Real-Time Systems.
+    How to approach embedded system projects for practical applications.
+    Optimizing sensor-based decision-making for real-time automation.
+
+⚡ Fun Fact:
+
+I'm passionate about building intelligent embedded solutions that improve automation, safety, and real-time decision-making. My ultimate goal is to start my own embedded systems company in the future! 🚀
 
 
 ## 🌐 Socials:
